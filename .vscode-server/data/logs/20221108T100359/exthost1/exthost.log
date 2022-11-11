@@ -1,0 +1,13 @@
+[2022-11-08 10:04:02.659] [exthost] [info] Extension host with pid 7824 started
+[2022-11-08 10:04:02.776] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-08 10:04:02.837] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-11-08 10:04:02.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-08 10:04:02.970] [exthost] [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/0e457eed9977194e32662d2014192f6d/vscode.lock': Lock acquired.
+[2022-11-08 10:04:03.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-08 10:04:03.280] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-08 10:04:03.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-08 10:04:03.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-08 10:04:03.880] [exthost] [info] Eager extensions activated
+[2022-11-08 11:22:42.759] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2022-11-08 11:22:42.826] [exthost] [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/0e457eed9977194e32662d2014192f6d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-11-08 11:22:43.133] [exthost] [info] Extension host with pid 7824 exiting with code 0

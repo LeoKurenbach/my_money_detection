@@ -1,0 +1,3 @@
+5_Euro
+10_Euro
+20_Euro

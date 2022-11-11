@@ -1,0 +1,13 @@
+[2022-10-15 13:17:33.636] [remoteagent] [info] Extension host agent started.
+[2022-10-15 13:17:34.082] [remoteagent] [info] [127.0.0.1][32fb86b9][ManagementConnection] New connection established.
+[2022-10-15 13:17:34.155] [remoteagent] [info] [127.0.0.1][91785625][ExtensionHostConnection] New connection established.
+[2022-10-15 13:17:34.168] [remoteagent] [info] [127.0.0.1][91785625][ExtensionHostConnection] <8315> Launched Extension Host Process.
+[2022-10-15 13:22:47.825] [remoteagent] [info] [127.0.0.1][32fb86b9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-15 13:22:47.859] [remoteagent] [info] [127.0.0.1][91785625][ExtensionHostConnection] <8315> Extension Host Process exited with code: 0, signal: null.
+[2022-10-15 13:22:47.861] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-15 13:26:04.134] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-10-15 13:26:04.134] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-10-15 13:26:04.336] [remoteagent] [info] [127.0.0.1][4cbf518a][ManagementConnection] New connection established.
+[2022-10-15 13:26:04.339] [remoteagent] [info] [127.0.0.1][8808657d][ExtensionHostConnection] New connection established.
+[2022-10-15 13:26:04.355] [remoteagent] [info] [127.0.0.1][8808657d][ExtensionHostConnection] <8456> Launched Extension Host Process.
+[2022-10-15 13:31:04.134] [remoteagent] [info] New EH opened, aborting shutdown

@@ -1,0 +1,153 @@
+[2022-10-24T14:10:20.612Z] Log level: Info
+[2022-10-24T14:10:20.636Z] [info] Validating found git in: git
+[2022-10-24T14:10:20.786Z] [info] Using git 2.17.1 from git
+[2022-10-24T14:10:20.929Z] > git rev-parse --show-toplevel [93ms]
+[2022-10-24T14:10:20.929Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:20.953Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-24T14:10:20.954Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:20.968Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-24T14:10:20.968Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.005Z] > git rev-parse --show-toplevel [28ms]
+[2022-10-24T14:10:21.005Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.018Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-24T14:10:21.018Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.030Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-24T14:10:21.030Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.041Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-24T14:10:21.042Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.081Z] > git rev-parse --show-toplevel [29ms]
+[2022-10-24T14:10:21.081Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.104Z] > git rev-parse --show-toplevel [13ms]
+[2022-10-24T14:10:21.104Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.123Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-24T14:10:21.123Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.141Z] > git rev-parse --show-toplevel [8ms]
+[2022-10-24T14:10:21.141Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.168Z] > git rev-parse --show-toplevel [15ms]
+[2022-10-24T14:10:21.168Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.183Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-24T14:10:21.183Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.260Z] > git rev-parse --show-toplevel [67ms]
+[2022-10-24T14:10:21.260Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.288Z] > git rev-parse --show-toplevel [18ms]
+[2022-10-24T14:10:21.288Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.303Z] > git rev-parse --show-toplevel [5ms]
+[2022-10-24T14:10:21.303Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.323Z] > git rev-parse --show-toplevel [10ms]
+[2022-10-24T14:10:21.340Z] > git rev-parse --git-dir --git-common-dir [6ms]
+[2022-10-24T14:10:21.362Z] [info] Open repository: /home/nvidia/jetson-inference
+[2022-10-24T14:10:21.395Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-24T14:10:21.395Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.424Z] > git rev-parse --show-toplevel [19ms]
+[2022-10-24T14:10:21.424Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.439Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-24T14:10:21.439Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.458Z] > git rev-parse --show-toplevel [10ms]
+[2022-10-24T14:10:21.458Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:10:21.971Z] > git check-ignore -v -z --stdin [6ms]
+[2022-10-24T14:10:23.551Z] > git status -z -uall [2170ms]
+[2022-10-24T14:10:23.564Z] > git symbolic-ref --short HEAD [3ms]
+[2022-10-24T14:10:23.580Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2022-10-24T14:10:23.605Z] > git remote --verbose [4ms]
+[2022-10-24T14:10:23.611Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [20ms]
+[2022-10-24T14:10:23.643Z] > git config --get commit.template [3ms]
+[2022-10-24T14:10:24.140Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-24T14:10:24.152Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-10-24T14:10:24.162Z] [info] Open repository: /home/nvidia/jetson-inference/utils
+[2022-10-24T14:10:24.187Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-24T14:10:24.201Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-10-24T14:10:24.211Z] [info] Open repository: /home/nvidia/jetson-inference/tools/camera-capture
+[2022-10-24T14:10:24.235Z] > git status -z -uall [61ms]
+[2022-10-24T14:10:24.245Z] > git status -z -uall [22ms]
+[2022-10-24T14:10:24.258Z] > git symbolic-ref --short HEAD [13ms]
+[2022-10-24T14:10:24.258Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-24T14:10:24.268Z] > git rev-parse --show-toplevel [35ms]
+[2022-10-24T14:10:24.283Z] > git rev-parse HEAD [15ms]
+[2022-10-24T14:10:24.304Z] > git symbolic-ref --short HEAD [49ms]
+[2022-10-24T14:10:24.304Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-24T14:10:24.317Z] > git remote --verbose [14ms]
+[2022-10-24T14:10:24.318Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-10-24T14:10:24.328Z] > git rev-parse --git-dir --git-common-dir [49ms]
+[2022-10-24T14:10:24.339Z] [info] Open repository: /home/nvidia/jetson-inference/python/training/classification
+[2022-10-24T14:10:24.388Z] > git status -z -uall [37ms]
+[2022-10-24T14:10:24.399Z] > git rev-parse HEAD [86ms]
+[2022-10-24T14:10:24.425Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-10-24T14:10:24.425Z] > git symbolic-ref --short HEAD [28ms]
+[2022-10-24T14:10:24.425Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-24T14:10:24.435Z] > git config --get commit.template [64ms]
+[2022-10-24T14:10:24.438Z] > git rev-parse --show-toplevel [78ms]
+[2022-10-24T14:10:24.456Z] > git status -z -uall [800ms]
+[2022-10-24T14:10:24.466Z] > git rev-parse --git-dir --git-common-dir [18ms]
+[2022-10-24T14:10:24.474Z] [info] Open repository: /home/nvidia/jetson-inference/python/training/detection
+[2022-10-24T14:10:24.496Z] > git rev-parse HEAD [61ms]
+[2022-10-24T14:10:24.517Z] > git remote --verbose [96ms]
+[2022-10-24T14:10:24.538Z] > git status -z -uall [53ms]
+[2022-10-24T14:10:24.614Z] > git remote --verbose [99ms]
+[2022-10-24T14:10:24.614Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [108ms]
+[2022-10-24T14:10:24.619Z] > git rev-parse --show-toplevel [123ms]
+[2022-10-24T14:10:24.631Z] > git symbolic-ref --short HEAD [166ms]
+[2022-10-24T14:10:24.661Z] > git rev-parse --git-dir --git-common-dir [31ms]
+[2022-10-24T14:10:24.669Z] [info] Open repository: /home/nvidia/jetson-inference/python/training/segmentation
+[2022-10-24T14:10:24.690Z] > git symbolic-ref --short HEAD [77ms]
+[2022-10-24T14:10:24.690Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-24T14:10:24.700Z] > git config --get commit.template [165ms]
+[2022-10-24T14:10:24.706Z] > git status -z -uall [26ms]
+[2022-10-24T14:10:24.719Z] > git rev-parse HEAD [19ms]
+[2022-10-24T14:10:24.738Z] > git rev-parse --show-toplevel [48ms]
+[2022-10-24T14:10:24.748Z] > git config --get commit.template [96ms]
+[2022-10-24T14:10:24.750Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [109ms]
+[2022-10-24T14:10:24.778Z] > git remote --verbose [9ms]
+[2022-10-24T14:10:24.779Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [19ms]
+[2022-10-24T14:10:24.780Z] > git rev-parse --git-dir --git-common-dir [32ms]
+[2022-10-24T14:10:24.786Z] [info] Open repository: /home/nvidia/jetson-inference/plugins/pose
+[2022-10-24T14:10:24.808Z] > git remote --verbose [71ms]
+[2022-10-24T14:10:24.809Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [81ms]
+[2022-10-24T14:10:24.809Z] > git symbolic-ref --short HEAD [91ms]
+[2022-10-24T14:10:24.810Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-24T14:10:24.822Z] > git status -z -uall [24ms]
+[2022-10-24T14:10:24.832Z] > git rev-parse --show-toplevel [24ms]
+[2022-10-24T14:10:24.845Z] > git symbolic-ref --short HEAD [13ms]
+[2022-10-24T14:10:24.845Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-24T14:10:24.854Z] > git rev-parse HEAD [35ms]
+[2022-10-24T14:10:24.888Z] > git rev-parse HEAD [34ms]
+[2022-10-24T14:10:24.907Z] > git rev-parse --git-dir --git-common-dir [65ms]
+[2022-10-24T14:10:24.915Z] [info] Open repository: /home/nvidia/jetson-inference/docker/containers
+[2022-10-24T14:10:24.950Z] > git status -z -uall [23ms]
+[2022-10-24T14:10:24.961Z] > git remote --verbose [55ms]
+[2022-10-24T14:10:24.963Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [66ms]
+[2022-10-24T14:10:24.968Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [105ms]
+[2022-10-24T14:10:24.968Z] > git remote --verbose [95ms]
+[2022-10-24T14:10:25.009Z] > git symbolic-ref --short HEAD [49ms]
+[2022-10-24T14:10:25.009Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-24T14:10:25.019Z] > git config --get commit.template [72ms]
+[2022-10-24T14:10:25.020Z] > git config --get commit.template [82ms]
+[2022-10-24T14:10:25.025Z] > git check-ignore -v -z --stdin [43ms]
+[2022-10-24T14:10:25.026Z] > git rev-parse HEAD [8ms]
+[2022-10-24T14:10:25.046Z] > git config --get commit.template [40ms]
+[2022-10-24T14:10:25.048Z] > git config --get commit.template [51ms]
+[2022-10-24T14:10:25.051Z] > git remote --verbose [7ms]
+[2022-10-24T14:10:25.052Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+[2022-10-24T14:10:25.084Z] > git config --get commit.template [6ms]
+[2022-10-24T14:10:25.398Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-24T14:10:25.410Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-10-24T14:10:25.424Z] [info] Open repository: /home/nvidia/jetson-inference/python/training/detection/ssd
+[2022-10-24T14:10:25.446Z] > git status -z -uall [9ms]
+[2022-10-24T14:10:25.464Z] > git symbolic-ref --short HEAD [8ms]
+[2022-10-24T14:10:25.464Z] fatal: ref HEAD is not a symbolic ref
+[2022-10-24T14:10:25.480Z] > git rev-parse HEAD [7ms]
+[2022-10-24T14:10:25.502Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-10-24T14:10:25.503Z] > git remote --verbose [5ms]
+[2022-10-24T14:10:25.519Z] > git config --get commit.template [3ms]
+[2022-10-24T14:10:25.596Z] > git check-ignore -v -z --stdin [3ms]
+[2022-10-24T14:11:23.588Z] > git rev-parse --show-toplevel [2ms]
+[2022-10-24T14:11:23.588Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:13:54.391Z] > git rev-parse --show-toplevel [3ms]
+[2022-10-24T14:13:54.391Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-10-24T14:17:11.331Z] > git status -z -uall [6870ms]
+[2022-10-24T14:17:11.424Z] > git symbolic-ref --short HEAD [3ms]
+[2022-10-24T14:17:11.441Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+[2022-10-24T14:17:11.530Z] > git remote --verbose [71ms]
+[2022-10-24T14:17:11.532Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [82ms]
+[2022-10-24T14:17:11.553Z] > git config --get commit.template [2ms]
+[2022-10-24T14:20:30.344Z] > git rev-parse --show-toplevel [5ms]
+[2022-10-24T14:20:30.344Z] fatal: not a git repository (or any of the parent directories): .git

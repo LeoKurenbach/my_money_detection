@@ -1,0 +1,39 @@
+[2022-10-29 12:12:55.011] [remoteagent] [info] Extension host agent started.
+[2022-10-29 12:12:55.567] [remoteagent] [info] [127.0.0.1][2bbaad65][ExtensionHostConnection] New connection established.
+[2022-10-29 12:12:55.570] [remoteagent] [info] [127.0.0.1][8e89464a][ManagementConnection] New connection established.
+[2022-10-29 12:12:55.604] [remoteagent] [info] [127.0.0.1][2bbaad65][ExtensionHostConnection] <7031> Launched Extension Host Process.
+[2022-10-29 12:12:59.654] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at a._throwIfNoPty (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:27:7252)","    at a.updateTitle (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:27:2984)","    at Object.call (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at c.onPromise (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:15:5833)","    at c.onRawMessage (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:15:5216)","    at /home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:15:4502","    at m.invoke (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at O.fire (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.X (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:9:20837)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-10-29 12:12:59.656] [remoteagent] [error] ["CodeExpectedError: Could not find pty on pty host","    at a._throwIfNoPty (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:27:7252)","    at a.updateIcon (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:27:3046)","    at Object.call (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:16:8386)","    at c.onPromise (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:15:5833)","    at c.onRawMessage (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:15:5216)","    at /home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:15:4502","    at m.invoke (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:11:145)","    at D.deliver (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)","    at O.fire (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)","    at process.X (/home/nvidia/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/out/vs/platform/terminal/node/ptyHostMain.js:9:20837)","    at process.emit (node:events:526:28)","    at emit (node:internal/child_process:938:14)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-10-29 12:29:17.357] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 12:29:27.157] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 12:29:35.954] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 12:30:17.925] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 12:31:03.838] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 12:32:06.401] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 12:32:41.989] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 12:33:15.819] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 12:42:32.868] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:22:07.318] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:22:19.319] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:23:05.968] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:23:19.160] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:24:04.630] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:24:34.420] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:24:58.753] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:25:47.675] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:26:05.559] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:26:21.347] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:36:11.008] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:36:26.262] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:36:39.536] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:37:04.507] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:37:26.092] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:37:49.313] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:38:05.797] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:39:12.023] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:39:27.871] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-29 13:39:28.109] [remoteagent] [info] [127.0.0.1][2bbaad65][ExtensionHostConnection] The client has reconnected.
+[2022-10-30 05:16:02.642] [remoteagent] [info] [127.0.0.1][8e89464a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-10-30 05:16:02.755] [remoteagent] [info] [127.0.0.1][2bbaad65][ExtensionHostConnection] <7031> Extension Host Process exited with code: 0, signal: null.
+[2022-10-30 05:16:02.756] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-10-30 05:21:02.757] [remoteagent] [info] Last EH closed, shutting down

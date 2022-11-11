@@ -1,0 +1,94 @@
+[2022-11-05 12:17:42.150] [exthost] [info] Extension host with pid 7814 started
+[2022-11-05 12:17:42.293] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-05 12:17:42.435] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-11-05 12:17:42.437] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-05 12:17:42.689] [exthost] [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/0e457eed9977194e32662d2014192f6d/vscode.lock': Lock acquired.
+[2022-11-05 12:17:42.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-05 12:17:42.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-05 12:17:43.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-05 12:17:43.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-05 12:17:43.413] [exthost] [info] Eager extensions activated
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.702] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.703] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.704] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:44.705] [exthost] [error] {"message":"Git error","stdout":"","stderr":"","exitCode":128}
+[2022-11-05 12:17:48.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-11-05 12:17:48.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-11-05 12:17:50.149] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-11-05 12:50:00.568] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-05 12:50:01.132] [exthost] [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/0e457eed9977194e32662d2014192f6d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-11-05 12:50:11.466] [exthost] [info] Extension host with pid 7814 exiting with code 0

@@ -1,0 +1,499 @@
+** Message: 18:15:34.633: environement.vala:58: Exporting primary_variable
+** Message: 18:15:34.633: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 18:15:34.633: environement.vala:177: custom_config :
+** Message: 18:15:34.633: environement.vala:178: config_dirs :/etc/xdg/xdg-ux-LXDE:/etc/xdg
+** Message: 18:15:34.634: environement.vala:179: confir_dirs not null, export : /etc/xdg/xdg-ux-LXDE:/etc/xdg
+** Message: 18:15:34.634: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 18:15:34.634: environement.vala:218: custom_data :/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:
+** Message: 18:15:34.634: environement.vala:219: data_dirs :/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 18:15:34.634: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 18:15:34.634: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 18:15:34.634: utils.vala:79: Config system location : /etc/xdg/xdg-ux-LXDE/lxsession/LXDE
+** Message: 18:15:34.634: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 18:15:34.636: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.636: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “iGtk/ColorScheme” in group “GTK”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “windows_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “panel/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “dock/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “file_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “desktop_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “launcher_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “composite_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “im1/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “im2/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “widget1/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “notification/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “keybindings/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “im_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “screensaver/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “power_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “polkit/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “audio_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “quit_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “quit_manager/command” in group “Session”
+** Message: 18:15:34.637: settings.vala:540: Key file does not have key “workspace_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “terminal_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “screenshot_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “lock_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “message_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “upgrade_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “updates_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “updates_manager/timeout” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “crash_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “crash_manager/dev_mode” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “crash_manager/timeout” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “clipboard/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “disable_autostart” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “upstart_user_session” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “xsettings_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “proxy_manager/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “proxy_manager/http” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “a11y/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “keyring/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “xrandr/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “network_gui/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “webbrowser/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “email/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “pdf_reader/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “video_player/command” in group “Session”
+** Message: 18:15:34.638: settings.vala:540: Key file does not have key “audio_player/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “images_display/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “text_editor/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “archive/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “charmap/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “calculator/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “spreadsheet/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “bittorent/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “document/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “webcam/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “burn/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “notes/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “disk_utility/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “tasks/command” in group “Session”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Keymap”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “State”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “State”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Dbus”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Dbus”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Environment”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Environment”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Environment”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Environment”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Environment”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Environment”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have group “Environment”
+** Message: 18:15:34.639: settings.vala:540: Key file does not have key “iXft/Hinting” in group “GTK”
+** Message: 18:15:34.640: settings.vala:540: Key file does not have key “sXft/HintStyle” in group “GTK”
+** Message: 18:15:34.640: settings.vala:540: Key file does not have key “sXft/RGBA” in group “GTK”
+** Message: 18:15:34.640: settings.vala:540: Key file does not have key “sGtk/ColorScheme” in group “GTK”
+** Message: 18:15:34.640: settings.vala:540: Key file does not have key “sGtk/CursorThemeName” in group “GTK”
+** Message: 18:15:34.640: settings.vala:540: Key file does not have key “iGtk/ToolbarIconSize” in group “GTK”
+** Message: 18:15:34.640: settings.vala:540: Key file does not have key “iNet/EnableEventSounds” in group “GTK”
+** Message: 18:15:34.640: settings.vala:540: Key file does not have key “iNet/EnableInputFeedbackSounds” in group “GTK”
+** Message: 18:15:34.640: settings.vala:540: Key file does not have key “Beep” in group “Keyboard”
+** Message: 18:15:34.640: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.640: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 18:15:34.640: settings.vala:485: Monitoring home path: /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.640: settings.vala:373: Settings default for Session, windows_manager, command : openbox
+** Message: 18:15:34.640: settings.vala:373: Settings default for Session, windows_manager, session : LXDE
+** Message: 18:15:34.640: settings.vala:373: Settings default for Session, disable_autostart, (null) : no
+
+** (lxsession:6603): WARNING **: 18:15:34.640: settings.vala:917: Failed to create file “/etc/xdg/lxsession/LXDE/desktop.conf.UBERM1”: Permission denied
+** Message: 18:15:34.641: settings.vala:462: Monitoring: /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.641: settings.vala:466: Desktop file is already in config home, do nothing
+** Message: 18:15:34.641: utils.vala:79: Config system location : /etc/xdg/xdg-ux-LXDE/lxsession/LXDE
+** Message: 18:15:34.641: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 18:15:34.641: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/autostart
+** Message: 18:15:34.641: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/autostart
+** Message: 18:15:34.642: settings.vala:373: Settings default for Session, polkit, command : lxpolkit
+** Message: 18:15:34.650: settings.vala:373: Settings default for Session, clipboard, command : lxclipboard
+** Message: 18:15:34.660: settings.vala:373: Settings default for Session, xsettings_manager, command : build-in
+** Message: 18:15:34.663: settings.vala:373: Settings default for Session, proxy_manager, command : build-in
+** Message: 18:15:34.669: settings.vala:373: Settings default for Session, keyring, command : ssh-agent
+** Message: 18:15:34.672: settings.vala:373: Settings default for GTK, iXft, Hinting : 1
+** Message: 18:15:34.675: settings.vala:373: Settings default for GTK, sXft, HintStyle : hintslight
+** Message: 18:15:34.680: settings.vala:373: Settings default for GTK, sXft, RGBA : rgb
+** Message: 18:15:34.683: settings.vala:373: Settings default for GTK, iNet, EnableEventSounds : 1
+** Message: 18:15:34.690: settings.vala:373: Settings default for GTK, iNet, EnableInputFeedbackSounds : 1
+** Message: 18:15:34.693: settings.vala:373: Settings default for GTK, sGtk, ColorScheme : 
+** Message: 18:15:34.699: settings.vala:373: Settings default for GTK, iGtk, ToolbarIconSize : 3
+** Message: 18:15:34.703: settings.vala:373: Settings default for GTK, sGtk, CursorThemeName : DMZ-White
+** Message: 18:15:34.709: settings.vala:373: Settings default for Keyboard, Beep, (null) : 1
+** Message: 18:15:34.713: settings.vala:373: Settings default for State, guess_default, (null) : true
+** Message: 18:15:34.720: settings.vala:373: Settings default for Dbus, lxde, (null) : true
+** Message: 18:15:34.724: settings.vala:373: Settings default for Environment, menu_prefix, (null) : lxde-
+** Message: 18:15:34.728: settings.vala:373: Settings default for Session, quit_manager, command : lxsession-logout
+** Message: 18:15:34.736: settings.vala:373: Settings default for Session, quit_manager, image : /usr/share/lxde/images/logout-banner.png
+** Message: 18:15:34.736: settings.vala:373: Settings default for Session, quit_manager, layout : top
+** Message: 18:15:34.736: settings.vala:373: Settings default for Session, lock_manager, command : lxlock
+** Message: 18:15:34.741: settings.vala:373: Settings default for Session, terminal_manager, command : lxterminal
+** Message: 18:15:34.749: settings.vala:373: Settings default for Session, launcher_manager, command : lxpanelctl
+** Message: 18:15:34.749: environement.vala:79: Exporting variable
+** Message: 18:15:34.749: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 18:15:34.750: environement.vala:177: custom_config :
+** Message: 18:15:34.750: environement.vala:178: config_dirs :/etc/xdg/xdg-ux-LXDE:/etc/xdg
+** Message: 18:15:34.750: environement.vala:179: confir_dirs not null, export : /etc/xdg/xdg-ux-LXDE:/etc/xdg
+** Message: 18:15:34.750: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 18:15:34.750: environement.vala:218: custom_data :
+** Message: 18:15:34.750: environement.vala:219: data_dirs :/usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 18:15:34.751: environement.vala:220: data_dirs not null, export : /usr/local/share:/usr/share:/usr/share/gdm:/var/lib/menu-xdg:/usr/local/share/:/usr/share/:/usr/share/gdm/:/var/lib/menu-xdg/
+** Message: 18:15:34.751: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 18:15:34.751: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.751: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.752: environement.vala:254: No entry in [Environment_variable]. Key file does not have group “Environment_variable”
+** Message: 18:15:34.759: utils.vala:79: Config system location : /etc/xdg/xdg-ux-LXDE/lxsession/LXDE
+** Message: 18:15:34.759: utils.vala:79: Config system location : /etc/xdg/lxsession/LXDE
+** Message: 18:15:34.759: utils.vala:85: System system path location : /etc/xdg/lxsession/LXDE/conffiles.conf
+** Message: 18:15:34.759: utils.vala:89: Final file used : /etc/xdg/lxsession/LXDE/conffiles.conf
+** Message: 18:15:34.759: options.vala:164: Activate xsettings_manager build-in
+** Message: 18:15:34.759: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.759: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 18:15:34.771: app.vala:721: polkit separate
+** Message: 18:15:34.771: app.vala:721: polkit separate
+** Message: 18:15:34.778: app.vala:76: Launching lxpolkit 
+** Message: 18:15:34.779: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/autostart
+** Message: 18:15:34.779: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/autostart
+** Message: 18:15:34.779: autostart.vala:42: Autostart path : /home/nvidia/.config/lxsession/LXDE/autostart
+** Message: 18:15:34.787: app.vala:76: Launching lxpanel 
+** Message: 18:15:34.797: app.vala:76: Launching pcmanfm 
+** Message: 18:15:34.810: app.vala:76: Launching xscreensaver 
+** Message: 18:15:34.835: options.vala:107: Create build-in Clipboard
+** Message: 18:15:34.837: main.vala:442: Check keymap_mode (null)
+** Message: 18:15:34.840: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-znukdGlNKEbF/agent.6736; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=6739; export SSH_AGENT_PID;
+echo Agent pid 6739;
+** Message: 18:15:34.856: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:34.856: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:34.856: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.856: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.876: settings.vala:503: Reload the xsettings option
+** Message: 18:15:34.876: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:34.877: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:34.877: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.877: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.887: settings.vala:503: Reload the xsettings option
+** Message: 18:15:34.887: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:34.887: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:34.887: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.887: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.903: settings.vala:503: Reload the xsettings option
+** Message: 18:15:34.903: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:34.903: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:34.903: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.903: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.911: settings.vala:503: Reload the xsettings option
+** Message: 18:15:34.911: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:34.911: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:34.911: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.911: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.939: settings.vala:503: Reload the xsettings option
+** Message: 18:15:34.939: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:34.939: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:34.939: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.939: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.962: settings.vala:503: Reload the xsettings option
+** Message: 18:15:34.962: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:34.962: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:34.962: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.962: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.982: settings.vala:503: Reload the xsettings option
+** Message: 18:15:34.982: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:34.982: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:34.982: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.982: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.993: settings.vala:503: Reload the xsettings option
+** Message: 18:15:34.994: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:34.994: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:34.995: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:34.995: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.033: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.033: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.033: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.034: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.034: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.042: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.042: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.043: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.043: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.043: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.050: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.050: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.050: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.050: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.050: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.079: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.079: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.079: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.079: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.079: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.086: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.086: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.086: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.086: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.086: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.092: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.092: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.092: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.093: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.093: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.096: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: 18:15:35.096: x-terminal-emulator has very limited support, consider choose another terminal
+** Message: 18:15:35.152: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.152: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.152: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.153: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.153: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.173: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.173: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.173: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.173: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.173: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.189: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.189: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.189: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.189: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.189: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.220: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.220: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.220: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.221: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.222: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.242: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.242: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.242: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.242: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.243: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.253: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.253: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.253: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.254: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.254: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.263: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.263: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.263: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.263: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.263: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.284: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.284: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.284: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.284: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.284: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.292: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.293: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.293: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.293: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.293: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.312: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.312: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.312: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.312: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.313: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.353: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.353: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.353: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.353: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.353: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.383: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.383: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.383: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.383: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.383: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.426: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.427: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.427: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.427: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.427: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.449: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.450: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.450: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.450: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.450: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.466: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.466: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.467: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.467: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.468: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: 18:15:35.525: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.526: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.526: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.526: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.526: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.589: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.589: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.589: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.589: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.589: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.618: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.618: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.619: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.619: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.619: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.652: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.652: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.652: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.652: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.652: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.674: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.674: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.674: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.674: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.674: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.706: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.706: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.706: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.707: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.707: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.726: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.727: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.727: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.727: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.727: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.734: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.770: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.770: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.771: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.771: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.776: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.776: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.777: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.777: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.777: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.783: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.783: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.783: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.783: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.783: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.791: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.791: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.791: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.791: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.791: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.802: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.802: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.803: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.803: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.803: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.816: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.816: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.817: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.817: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.817: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.850: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.850: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.850: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.850: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.850: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.881: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.881: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.881: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.881: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.881: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.912: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.912: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.912: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.912: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.912: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.944: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.945: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.945: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.945: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.945: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.970: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.970: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.970: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.970: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.970: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.980: settings.vala:503: Reload the xsettings option
+** Message: 18:15:35.980: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:35.980: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:35.980: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:35.980: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.024: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.024: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.024: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.024: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.024: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.057: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.057: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.057: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.057: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.057: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.128: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.128: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.128: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.128: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.128: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.147: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.148: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.148: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.148: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.148: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.198: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.198: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.198: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.198: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.198: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.232: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.232: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.232: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.232: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.232: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.261: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.261: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.261: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.261: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.261: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.304: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.304: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.304: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.304: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.304: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.345: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.345: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.345: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.345: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.345: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.363: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.363: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.363: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.363: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.363: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+
+(nm-applet:6769): Gtk-WARNING **: 18:15:36.385: Can't set a parent on widget which has a parent
+** Message: 18:15:36.404: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.404: settings.vala:509: Desktop file change, reloading XSettings daemon
+** Message: 18:15:36.404: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:36.404: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.404: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:36.458: settings.vala:503: Reload the xsettings option
+** Message: 18:15:36.472: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+
+(nm-applet:6769): Gdk-CRITICAL **: 18:15:37.292: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(nvpmodel_indicator.py:6880): Gdk-CRITICAL **: 18:15:37.293: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+** Message: 18:15:38.573: settings.vala:515: Desktop file created in home directory, switch configuration to it
+** Message: 18:15:38.574: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:38.574: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:38.574: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:38.588: settings.vala:503: Reload the xsettings option
+** Message: 18:15:38.588: settings.vala:462: Monitoring: /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:38.588: settings.vala:466: Desktop file is already in config home, do nothing
+** Message: 18:15:38.588: settings.vala:515: Desktop file created in home directory, switch configuration to it
+** Message: 18:15:38.589: options.vala:186: Reload xsettings_manager build-in
+** Message: 18:15:38.589: utils.vala:68: User config used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:38.589: utils.vala:89: Final file used : /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:38.597: settings.vala:503: Reload the xsettings option
+** Message: 18:15:38.597: settings.vala:462: Monitoring: /home/nvidia/.config/lxsession/LXDE/desktop.conf
+** Message: 18:15:38.597: settings.vala:466: Desktop file is already in config home, do nothing
+/usr/lib/ubuntu-release-upgrader/check-new-release-gtk:30: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+WARNING:root:timeout reached, exiting
+lxde-logout
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 3987 requests (3987 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
