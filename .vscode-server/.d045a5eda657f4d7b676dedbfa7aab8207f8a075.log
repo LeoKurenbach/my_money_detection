@@ -72,3 +72,23 @@ Extension host agent listening on 44781
     'fi\n' +
     'exit 0'
 ]
+[12:15:37] No ptyHost heartbeat after 6 seconds
+[12:15:45] No ptyHost heartbeat after 6 seconds
+[12:17:12] No ptyHost heartbeat after 6 seconds
+[12:17:50] No ptyHost heartbeat after 6 seconds
+[12:18:51] No ptyHost heartbeat after 6 seconds
+[12:19:38] No ptyHost heartbeat after 6 seconds
+[12:19:57] No ptyHost heartbeat after 6 seconds
+[12:20:19] No ptyHost heartbeat after 6 seconds
+[10:01:04] No ptyHost heartbeat after 6 seconds
+[10:01:30] No ptyHost heartbeat after 6 seconds
+[10:02:14] No ptyHost heartbeat after 6 seconds
+[10:02:36] No ptyHost heartbeat after 6 seconds
+[10:02:38] [127.0.0.1][2e573a75][ExtensionHostConnection] The client has reconnected.
+[10:02:46] No ptyHost heartbeat after 6 seconds
+[10:03:11] No ptyHost heartbeat after 6 seconds
+[10:03:14] [127.0.0.1][2e573a75][ExtensionHostConnection] The client has reconnected.
+[10:03:40] No ptyHost heartbeat after 6 seconds
+[10:03:55] No ptyHost heartbeat after 6 seconds
+[10:04:26] No ptyHost heartbeat after 6 seconds
+[10:04:38] No ptyHost heartbeat after 6 seconds

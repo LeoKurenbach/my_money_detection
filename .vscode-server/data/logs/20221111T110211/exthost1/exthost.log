@@ -28,3 +28,17 @@
 [2022-11-11 11:43:48.661] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3479
 [2022-11-11 11:43:55.350] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3479
 [2022-11-11 11:44:02.100] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3479
+[2022-11-11 11:44:08.813] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3479
+[2022-11-11 11:44:15.611] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3479
+[2022-11-11 11:44:23.151] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3479
+[2022-11-11 11:44:30.041] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3479
+[2022-11-11 11:44:37.567] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3480
+[2022-11-11 11:44:44.890] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3480
+[2022-11-11 11:44:52.601] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3480
+[2022-11-11 11:45:00.081] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3480
+[2022-11-11 11:45:07.533] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3480
+[2022-11-11 11:45:15.000] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3480
+[2022-11-11 11:45:22.459] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3480
+[2022-11-11 11:45:29.819] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3480
+[2022-11-12 10:29:25.049] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+[2022-11-12 10:30:05.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
