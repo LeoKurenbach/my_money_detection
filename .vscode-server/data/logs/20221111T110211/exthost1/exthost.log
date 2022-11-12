@@ -42,3 +42,6 @@
 [2022-11-11 11:45:29.819] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3480
 [2022-11-12 10:29:25.049] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
 [2022-11-12 10:30:05.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-11-12 12:15:43.347] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-11-12 12:15:43.348] [exthost] [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/0e457eed9977194e32662d2014192f6d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-11-12 12:15:43.405] [exthost] [info] Extension host with pid 10483 exiting with code 0
