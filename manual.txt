@@ -1,0 +1,8 @@
+To use my model you have to put your image of a 5,10 or 20 Euro bill in the jetson-inference/python/training/classification/data/money_project folder.
+After that cd into jetson-inference/python/training/classification and set 
+  NET=models/money_project
+  DATASET=data/money_project
+  Now from inside this derectory run the command 
+        imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 
+        --labels=$DATASET/labels.txt $DATASET/test/<yourImageName>.jpg <outputName>.jpg
+You should find the outputed image somewere in the jetson-inference/python/training/classification folder.
