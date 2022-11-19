@@ -10,3 +10,7 @@ I thought to make this project for the blind people in the world so that they ca
 
 
 my code is the .gitignore file
+
+
+
+Link to two photos https://imgur.com/a/rXSAcl3
