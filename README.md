@@ -8,8 +8,7 @@ Its still a work in progress waht means there is still a chance that my programm
 I thought to make this project for the blind people in the world so that they can seperate there money easyly.
 
 
-
-my code is the .gitignore file
+the code is the classification/train.py file
 
 
 
