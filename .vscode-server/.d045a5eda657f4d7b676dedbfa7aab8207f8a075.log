@@ -72,3 +72,52 @@ Extension host agent listening on 39863
     'fi\n' +
     'exit 0'
 ]
+[12:49:49] Getting Manifest... ms-python.python
+[12:49:49] Installing extension: ms-python.python
+[12:49:50] Getting Manifest... ms-toolsai.jupyter
+[12:49:50] Getting Manifest... ms-toolsai.jupyter-keymap
+[12:49:51] Getting Manifest... ms-toolsai.jupyter-renderers
+[12:49:51] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+[12:49:51] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+[12:49:51] Getting Manifest... ms-python.vscode-pylance
+[12:49:51] Installing extension: ms-toolsai.jupyter ms-python.python
+[12:49:51] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+[12:49:51] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+[12:49:51] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+[12:49:51] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+[12:49:51] Installing extension: ms-python.vscode-pylance ms-python.python
+[12:49:52] Downloaded extension: ms-toolsai.jupyter-keymap /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[12:49:52] Downloaded extension: ms-toolsai.vscode-jupyter-slideshow /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+[12:49:52] Downloaded extension: ms-toolsai.vscode-jupyter-cell-tags /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+[12:49:52] Extracted extension to /home/nvidia/.vscode-server/extensions/.83f9e04d-a7ac-42da-81ec-938215f638e1: ms-toolsai.jupyter-keymap
+[12:49:52] Renamed to /home/nvidia/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[12:49:52] Extracting completed. ms-toolsai.jupyter-keymap
+[12:49:53] Extracted extension to /home/nvidia/.vscode-server/extensions/.bdfe1665-0b99-4415-b115-eb1b10a28278: ms-toolsai.vscode-jupyter-slideshow
+[12:49:53] Renamed to /home/nvidia/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+[12:49:53] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+[12:49:53] Extracted extension to /home/nvidia/.vscode-server/extensions/.6f34f402-ce61-4a16-969d-43acc9f942e7: ms-toolsai.vscode-jupyter-cell-tags
+[12:49:53] Renamed to /home/nvidia/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+[12:49:53] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+[12:49:56] Downloaded extension: ms-toolsai.jupyter /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.9.1303220346
+[12:49:56] Downloaded extension: ms-python.python /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.16.1
+[12:49:56] Downloaded extension: ms-toolsai.jupyter-renderers /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.10
+[12:49:58] Extracted extension to /home/nvidia/.vscode-server/extensions/.8afdfd0e-d900-40cc-9098-d0688f221bd1: ms-toolsai.jupyter-renderers
+[12:49:58] Renamed to /home/nvidia/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.10
+[12:49:58] Extracting completed. ms-toolsai.jupyter-renderers
+[12:50:00] Extracted extension to /home/nvidia/.vscode-server/extensions/.e93d82a6-66ac-4ac6-b9b2-e248d2e606e6: ms-toolsai.jupyter
+[12:50:00] Renamed to /home/nvidia/.vscode-server/extensions/ms-toolsai.jupyter-2022.9.1303220346
+[12:50:00] Extracting completed. ms-toolsai.jupyter
+[12:50:04] Extracted extension to /home/nvidia/.vscode-server/extensions/.edafd9ef-db99-428f-8dee-5429cc57c48a: ms-python.python
+[12:50:06] Renamed to /home/nvidia/.vscode-server/extensions/ms-python.python-2022.16.1
+[12:50:06] Extracting completed. ms-python.python
+[12:50:13] Downloaded extension: ms-python.vscode-pylance /home/nvidia/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.11.30
+[12:50:22] Extracted extension to /home/nvidia/.vscode-server/extensions/.abf2274f-eb1a-463f-913c-23c0f6ddf75e: ms-python.vscode-pylance
+[12:50:22] Renamed to /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.30
+[12:50:22] Extracting completed. ms-python.vscode-pylance
+[12:50:22] Extension installed successfully: ms-toolsai.jupyter-keymap
+[12:50:22] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+[12:50:22] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+[12:50:22] Extension installed successfully: ms-toolsai.jupyter-renderers
+[12:50:22] Extension installed successfully: ms-toolsai.jupyter
+[12:50:22] Extension installed successfully: ms-python.python
+[12:50:22] Extension installed successfully: ms-python.vscode-pylance

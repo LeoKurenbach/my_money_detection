@@ -1,0 +1,26 @@
+[Info  - 12:50:38 PM] (8087) Pylance language server 2022.11.30 (pyright 04a10583) starting
+[Info  - 12:50:38 PM] (8087) Server root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.30/dist
+[Info  - 12:50:38 PM] (8087) Starting service instance "nvidia"
+[Info  - 12:50:38 PM] (8087) Notebook support: LSP
+[Info  - 12:50:38 PM] (8087) Interactive window support: LSP
+[Info  - 12:50:39 PM] (8087) No configuration file found.
+[Info  - 12:50:39 PM] (8087) No pyproject.toml file found.
+[Info  - 12:50:39 PM] (8087) Setting pythonPath for service "nvidia": "/usr/bin/python3"
+[Warn  - 12:50:39 PM] (8087) stubPath /home/nvidia/typings is not a valid directory.
+[Info  - 12:50:39 PM] (8087) Assuming Python version 3.6
+[Info  - 12:50:39 PM] (8087) Assuming Python platform Linux
+[Info  - 12:50:39 PM] (8087) Searching for source files
+[Info  - 12:50:40 PM] (8087) Found 157 source files
+[Info  - 12:50:40 PM] (8087) Background analysis(1) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.30/dist
+[Info  - 12:50:40 PM] (8087) Background analysis(1) started
+[Info  - 12:50:41 PM] (8087) Indexer background runner(2) root directory: /home/nvidia/.vscode-server/extensions/ms-python.vscode-pylance-2022.11.30/dist (index)
+[Info  - 12:50:41 PM] (8087) Indexing(2) started
+[Info  - 12:50:46 PM] (8087) [IDX(2)] Long operation: scan packages /home/nvidia (2279ms)
+[Info  - 12:50:46 PM] (8087) scanned(2) 194 files over 1 exec env
+[Info  - 12:50:46 PM] (8087) [BG(1)] Long operation: getSemanticTokens full at /home/nvidia/jetson-inference/python/training/classification/train.py (4130ms)
+[Info  - 12:50:57 PM] (8087) [IDX(2)] Long operation: parsing: /usr/lib/python3/dist-packages/scipy/stats/stats.py (3984ms)
+[Info  - 12:50:57 PM] (8087) [IDX(2)] Long operation: binding: /usr/lib/python3/dist-packages/scipy/stats/__init__.py (4344ms)
+[Info  - 12:50:58 PM] (8087) [IDX(2)] Long operation: index execution environment /home/nvidia (14364ms)
+[Info  - 12:50:58 PM] (8087) [IDX(2)] Long operation: index packages /home/nvidia (14372ms)
+[Info  - 12:50:58 PM] (8087) indexed(2) 120 files over 1 exec env
+[Info  - 12:50:58 PM] (8087) Indexing finished(2).
