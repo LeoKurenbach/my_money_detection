@@ -1,0 +1,10 @@
+[Trace 17:19:55.299] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/nvidia/jetson-inference/python/training/classification/README.md
+[Trace 17:19:55.322] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/nvidia/jetson-inference/python/training/classification/README.md
+[Trace 17:19:55.326] Server: connection.languages.diagnostics.on: file:///home/nvidia/jetson-inference/python/training/classification/README.md
+[Trace 17:19:55.340] DocumentSymbolProvider: provideDocumentSymbols — file:///home/nvidia/jetson-inference/python/training/classification/README.md 1
+[Debug 17:19:55.341] LinkProvider: compute - file:///home/nvidia/jetson-inference/python/training/classification/README.md
+[Trace 17:19:55.360] Server: connection.languages.diagnostics.on: file:///home/nvidia/jetson-inference/python/training/classification/README.md
+[Debug 17:19:55.665] MdFoldingProvider: provideFoldingRanges — file:///home/nvidia/jetson-inference/python/training/classification/README.md 1
+[Debug 17:19:55.666] TableOfContentsProvider: create - file:///home/nvidia/jetson-inference/python/training/classification/README.md
+[Trace 17:20:19.192] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/nvidia/jetson-inference/python/training/classification/README.md
+[Trace 17:20:19.193] VsCodeClientWorkspace: deleteDocument: file:///home/nvidia/jetson-inference/python/training/classification/README.md
