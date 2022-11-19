@@ -1,3 +1,5 @@
 [user]
 	name = LeoKurenbach
 	email = leo.kurenbach@icloud.com
+[http]
+	postbuffer = 2097152000

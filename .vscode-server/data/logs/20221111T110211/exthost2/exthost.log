@@ -274,3 +274,6 @@
 [2022-11-12 12:18:49.707] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/nvidia/jetson-inference/python/training/segmentation' is in submodule 'jetson-inference'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
 [2022-11-12 12:18:49.707] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/nvidia/jetson-inference/python/training/segmentation' is in submodule 'jetson-inference'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
 [2022-11-12 12:18:49.707] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/nvidia/jetson-inference/python/training/segmentation' is in submodule 'jetson-inference'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-11-17 10:52:53.926] [exthost] [info] Extension host terminating: renderer disconnected for too long (1)
+[2022-11-17 10:52:53.930] [exthost] [info] Lock '/home/nvidia/.vscode-server/data/User/workspaceStorage/0e457eed9977194e32662d2014192f6d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-11-17 10:52:53.968] [exthost] [info] Extension host with pid 9692 exiting with code 0
