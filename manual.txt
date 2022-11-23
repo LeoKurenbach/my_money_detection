@@ -5,4 +5,4 @@ After that cd into classification and set
   Now from inside this derectory run the command 
         imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 
         --labels=$DATASET/labels.txt $DATASET/test/<yourImageName>.jpg <outputName>.jpg
-You should find the outputed image somewere in the classification folder.
+You should find the outputed image somewhere in the classification folder.
